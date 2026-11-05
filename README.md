@@ -1,5 +1,5 @@
+![Dashboard Preview](dashboard.png.png)
 # Executive Financial Performance & Budget Variance Dashboard
-
 ## Overview
 This interactive Power BI dashboard provides executive-level financial analysis using revenue, cost, and budget data modeled from SQL Server. The project analyzes overall organizational performance, evaluates product profitability, tracks monthly actual vs. budgeted revenue targets, and breaks down regional market contributions.
 
